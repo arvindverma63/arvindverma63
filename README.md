@@ -40,7 +40,7 @@ Hey there! I'm **Arvind Verma**, a passionate **Software Developer** who thrives
 
 [![GitHub](https://img.shields.io/badge/GitHub-arvindverma63-181717?style=for-the-badge&logo=github)](https://github.com/arvindverma63)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SV%20Infotech-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arvind-verma-381290292/)
-[![Email](https://img.shields.io/badge/Email-arvindverma63@example.com-red?style=for-the-badge&logo=gmail)](mailto:arvindverma630635@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arvindverma630635@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:arvindverma630635@gmail.com)
 
 ---
 
