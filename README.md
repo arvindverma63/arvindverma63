@@ -41,12 +41,33 @@
 
 ---
 
-### 🏆 GitHub Achievements
+---
+
+### 📊 Engineering Metrics & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvindverma63&theme=radical&no-bg=true&margin-w=15" width="100%" alt="Arvind's Trophies" />
+  <img src="https://raw.githubusercontent.com/arvindverma63/arvindverma63/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arvindverma63&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=007396" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=ffffff" width="48%" />
+</div>
+
+---
+
+### 🛠️ Technical Velocity
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,flutter,java,py,mysql,mongodb,git,docker" />
+  <br />
+  <img src="https://img.shields.io/github/stars/arvindverma63?style=for-the-badge&color=FF2D20&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/github/followers/arvindverma63?style=for-the-badge&color=007396&labelColor=1a1a1a" />
+</div>
+
+---
 ---
 
 ### 📊 Engineering Stats
@@ -59,7 +80,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arvindverma63&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arvindverma63&color=FF2D20&style=flat-square&label=PROFILE+VIEWS" />
