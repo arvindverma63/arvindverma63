@@ -45,9 +45,7 @@
 
 ### 📊 Engineering Metrics & Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arvindverma63/arvindverma63/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 
 <br />
 
