@@ -1,87 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:007396&height=200&section=header&text=Arvind%20Verma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://raw.githubusercontent.com/arvindverma63/arvindverma63/main/banner.png" onerror="this.src='https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=150&section=header&text=ARVIND%20VERMA&fontSize=60&fontColor=ffffff'" width="100%" />
 
-  <h3>👨‍💻 Full-Stack Developer | Software Architect | Tech Enthusiast</h3>
+  <br/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Solutions;Mobile+App+Specialist;Laravel+%26+MERN+Expert;Open+Source+Contributor" alt="Typing SVG" />
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/arvind-verma-381290292/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:arvindverma630635@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <h1>Software Engineer & Solutions Architect</h1>
+        <p>Specializing in high-performance web architectures, mobile ecosystems, and complex simulations. Passionate about writing clean, maintainable code and solving real-world challenges through technology.</p>
+        <p>
+          <a href="https://www.linkedin.com/in/arvind-verma-381290292/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+          <a href="mailto:arvindverma630635@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=buffer&logoColor=white"/></a>
+        </p>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=transparent&hide_border=true&title_color=FF2D20&text_color=ffffff&bg_color=00000000" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📖 About Me
+### 🛡️ Core Expertise
 
-I am a passionate **Software Developer** dedicated to turning complex problems into elegant, real-world applications. With expertise spanning from **backend architecture** to **modern mobile UI**, I thrive in environments that challenge my technical limits.
-
-- 🔭 **Currently working on:** Advanced Video Conferencing & AI Face Attendance Systems.
-- 🌍 **Social Impact:** Developing the platform for **People Society of India** for environmental sustainability.
-- ⚡ **Fun Fact:** I love simulating complex physics like Black Holes and Solar Systems in Java.
-
----
-
-### 🛠️ Tech Stack & Toolbox
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb" alt="Backend" />
-      <br /><b>Backend</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,js,html,css" alt="Frontend" />
-      <br /><b>Frontend</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,java,android,python" alt="Mobile/Other" />
-      <br /><b>Mobile & Logic</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git,github,wordpress,postman,vscode" alt="Tools" />
-      <br /><b>Tools</b>
-    </td>
-  </tr>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | `PHP / Laravel` • `Node.js` • `Express` • `Python` • `Java (Spring)` |
+| **Frontend & UI** | `React.js` • `Angular` • `Tailwind CSS` • `Bootstrap` |
+| **Mobile Development** | `Flutter (Dart)` • `Android SDK` • `Java Native` |
+| **Database & Cloud** | `MySQL` • `MongoDB` • `PostgreSQL` • `Firebase` |
+| **Specialized** | `Agora Web RTC` • `WooCommerce Development` • `AI Face Recognition` |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Key Contributions & Engineering Projects
 
-- **EventHorizon-Java:** A high-performance physics engine for black hole and gravity simulations.
-- **Medantrik API:** Comprehensive health-tech infrastructure with fully documented Postman collections.
-- **JVM Arcade:** A community-driven hub for game developers built on the Java ecosystem.
+* **[EventHorizon-Java](https://github.com/arvindverma63/EventHorizon-Java)** *A high-fidelity physics engine simulating gravitational bodies and celestial mechanics using Java.*
+* **Real-time Communication Suite** *Architecting a low-latency video calling infrastructure and automated attendance system utilizing biometric recognition.*
+* **Medantrik Ecosystem** *Developed a robust API infrastructure for healthcare management, focused on scalability and data integrity.*
+* **Sustainability Platform** *Engineering the digital backbone for the People Society of India to facilitate environmental advocacy.*
 
 ---
 
-### 📊 Performance & Analytics
+### 📉 Engineering Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=007396" width="480" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindverma63&theme=radical&hide_border=true" width="100%" />
-</p>
-
----
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <p>Looking for a collaborator or a developer for your next big idea?</p>
-  <a href="https://github.com/arvindverma63">
-    <img src="https://img.shields.io/github/followers/arvindverma63?label=Follow&style=social" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindverma63&theme=dark&hide_border=true&background=0D1117&stroke=FF2D20&ring=007396&fire=FF2D20" width="100%" />
+</div>
+
+---
+
+### ⚡ Technical Philosophy
+
+> "Code is not just instructions for machines; it is a medium for human collaboration. I prioritize **Readability**, **Scalability**, and **Security** in every line I commit."
+
+<div align="center">
   <br />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=arvindverma63&color=FF2D20&style=flat-square&label=PROFILE+VIEWS" alt="Arvind Verma" />
+  <sub>Copyright © 2026 Arvind Verma • Built with ❤️ and Coffee</sub>
 </div>
