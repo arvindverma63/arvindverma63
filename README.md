@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:007396&height=200&section=header&text=Arvind%20Verma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=250&section=header&text=Arvind%20Verma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Mobile%20Expert%20•%20Open%20Source&descSize=22&descAlignY=60" width="100%" />
   <br />
 
   <h1>Software Engineer & Solutions Architect</h1>
@@ -40,17 +39,26 @@
 
 ---
 
-### 📉 Engineering Activity
+---
+
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindverma63&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-  
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arvindverma63&theme=radical&no-bg=true&margin-w=15" width="100%" alt="Arvind's Trophies" />
 </div>
 
+---
+
+### 📊 Engineering Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindverma63&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+  <br />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arvindverma63&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 ---
 
 <div align="center">
