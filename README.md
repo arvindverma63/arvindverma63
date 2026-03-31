@@ -1,56 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=150&section=header&text=ARVIND%20VERMA&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:007396&height=200&section=header&text=Arvind%20Verma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <br/>
+  <br />
 
-  <table>
-    <tr>
-      <td align="left" width="60%">
-        <h1>Software Engineer & Solutions Architect</h1>
-        <p>Specializing in high-performance web architectures, mobile ecosystems, and complex simulations. Passionate about writing clean, maintainable code.</p>
-        <p>
-          <a href="https://www.linkedin.com/in/arvind-verma-381290292/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-          <a href="mailto:arvindverma630635@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-        </p>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=dark&hide_border=true&title_color=FF2D20&text_color=ffffff&bg_color=0D1117" />
-      </td>
-    </tr>
-  </table>
+  <h1>Software Engineer & Solutions Architect</h1>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/arvind-verma-381290292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:arvindverma630635@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+  <p>Specializing in high-performance web architectures, mobile ecosystems, and complex simulations.</p>
 </div>
 
 ---
 
 ### 🛡️ Core Expertise
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,react,angular,tailwind,js,html,css,flutter,dart,java,android,py,git,vscode" />
+</div>
+
+<br />
+
 | Category | Technologies |
 | :--- | :--- |
 | **Backend & APIs** | `PHP / Laravel` • `Node.js` • `Express` • `Python` • `Java (Spring)` |
 | **Frontend & UI** | `React.js` • `Angular` • `Tailwind CSS` • `Bootstrap` |
-| **Mobile Development** | `Flutter (Dart)` • `Android SDK` • `Java Native` |
-| **Database & Cloud** | `MySQL` • `MongoDB` • `PostgreSQL` • `Firebase` |
+| **Mobile Dev** | `Flutter (Dart)` • `Android SDK` • `Java Native` |
 | **Specialized** | `Agora Web RTC` • `WooCommerce` • `AI Face Recognition` |
 
 ---
 
 ### 🚀 Key Projects
 
-* **[EventHorizon-Java](https://github.com/arvindverma63/EventHorizon-Java)** *Physics engine simulating gravitational bodies.*
-* **Real-time Communication Suite** *Low-latency video infrastructure & biometric recognition.*
+* **[EventHorizon-Java](https://github.com/arvindverma63/EventHorizon-Java)** *Physics engine simulating gravitational bodies and celestial mechanics.*
+* **Real-time Communication Suite** *Architecting low-latency video infrastructure & biometric recognition.*
 * **Medantrik Ecosystem** *Scalable API infrastructure for healthcare management.*
 
 ---
 
-### 📉 Engineering Metrics
+### 📉 Engineering Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=007396" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindverma63&theme=dark&hide_border=true&background=0D1117&stroke=FF2D20&ring=007396&fire=FF2D20" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindverma63&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+  
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 
 ---
 
 <div align="center">
-  <sub>Copyright © 2026 Arvind Verma • Built with ❤️ and Coffee</sub>
+  <img src="https://komarev.com/ghpvc/?username=arvindverma63&color=FF2D20&style=flat-square&label=PROFILE+VIEWS" />
+  <br />
+  <sub>Copyright © 2026 Arvind Verma • Built with ❤️</sub>
 </div>
