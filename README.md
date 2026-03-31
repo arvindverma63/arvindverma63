@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arvindverma63/arvindverma63/main/banner.png" onerror="this.src='https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=150&section=header&text=ARVIND%20VERMA&fontSize=60&fontColor=ffffff'" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=150&section=header&text=ARVIND%20VERMA&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/>
 
@@ -7,15 +7,14 @@
     <tr>
       <td align="left" width="60%">
         <h1>Software Engineer & Solutions Architect</h1>
-        <p>Specializing in high-performance web architectures, mobile ecosystems, and complex simulations. Passionate about writing clean, maintainable code and solving real-world challenges through technology.</p>
+        <p>Specializing in high-performance web architectures, mobile ecosystems, and complex simulations. Passionate about writing clean, maintainable code.</p>
         <p>
           <a href="https://www.linkedin.com/in/arvind-verma-381290292/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
           <a href="mailto:arvindverma630635@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=buffer&logoColor=white"/></a>
         </p>
       </td>
       <td align="center" width="40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=transparent&hide_border=true&title_color=FF2D20&text_color=ffffff&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindverma63&layout=compact&theme=dark&hide_border=true&title_color=FF2D20&text_color=ffffff&bg_color=0D1117" />
       </td>
     </tr>
   </table>
@@ -31,36 +30,27 @@
 | **Frontend & UI** | `React.js` • `Angular` • `Tailwind CSS` • `Bootstrap` |
 | **Mobile Development** | `Flutter (Dart)` • `Android SDK` • `Java Native` |
 | **Database & Cloud** | `MySQL` • `MongoDB` • `PostgreSQL` • `Firebase` |
-| **Specialized** | `Agora Web RTC` • `WooCommerce Development` • `AI Face Recognition` |
+| **Specialized** | `Agora Web RTC` • `WooCommerce` • `AI Face Recognition` |
 
 ---
 
-### 🚀 Key Contributions & Engineering Projects
+### 🚀 Key Projects
 
-* **[EventHorizon-Java](https://github.com/arvindverma63/EventHorizon-Java)** *A high-fidelity physics engine simulating gravitational bodies and celestial mechanics using Java.*
-* **Real-time Communication Suite** *Architecting a low-latency video calling infrastructure and automated attendance system utilizing biometric recognition.*
-* **Medantrik Ecosystem** *Developed a robust API infrastructure for healthcare management, focused on scalability and data integrity.*
-* **Sustainability Platform** *Engineering the digital backbone for the People Society of India to facilitate environmental advocacy.*
+* **[EventHorizon-Java](https://github.com/arvindverma63/EventHorizon-Java)** *Physics engine simulating gravitational bodies.*
+* **Real-time Communication Suite** *Low-latency video infrastructure & biometric recognition.*
+* **Medantrik Ecosystem** *Scalable API infrastructure for healthcare management.*
 
 ---
 
 ### 📉 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=007396" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindverma63&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=007396" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindverma63&theme=dark&hide_border=true&background=0D1117&stroke=FF2D20&ring=007396&fire=FF2D20" width="48%" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindverma63&theme=dark&hide_border=true&background=0D1117&stroke=FF2D20&ring=007396&fire=FF2D20" width="100%" />
-</div>
 
 ---
 
-### ⚡ Technical Philosophy
-
-> "Code is not just instructions for machines; it is a medium for human collaboration. I prioritize **Readability**, **Scalability**, and **Security** in every line I commit."
-
 <div align="center">
-  <br />
   <sub>Copyright © 2026 Arvind Verma • Built with ❤️ and Coffee</sub>
 </div>
